@@ -1,0 +1,6 @@
+framework module Pods_NewFeedAppUITests {
+  umbrella header "Pods-NewFeedAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
